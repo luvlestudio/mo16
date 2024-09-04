@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "한준호 ♥ 이서영의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/AN9usp9.png",
+        imageUrl: "https://i.imgur.com/eQxKEgJ.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
